@@ -12,6 +12,13 @@ You can view and access this repository here:
 
 ---
 
+## My Codeforces Profile
+
+Check out my Codeforces profile here:  
+[Tamim Hasan Nahian](https://codeforces.com/profile/tamimhasannahain1214)
+
+---
+
 ## How to Clone
 
 ```bash
